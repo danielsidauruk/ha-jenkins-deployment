@@ -1,0 +1,5 @@
+id_rsa.pub
+daniellearningpac.json
+.terraform
+terraform/.terraform.lock.hcl
+.DS_STORE
